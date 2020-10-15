@@ -16,6 +16,7 @@ p {
 
 #q-btns {
     margin: 0 auto;
+    display: none;
 }
 
 .q-btns {
@@ -28,4 +29,8 @@ p {
     position: fixed;
     top: 0;
     right: 20px;
+}
+
+#main {
+    text-align: center;
 }
