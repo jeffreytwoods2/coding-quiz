@@ -11,7 +11,7 @@ Points are tallied up at the end, and student may save their username and their 
 
 HTML:
 
-Layout is very simple; <h1> header is repurposed after landing page to be the question-asking element
+Layout is very simple; h1 header is repurposed after landing page to be the question-asking element
 Parapgraph element is hidden after quiz begins, and is repurposed to show the score at the end
 Question buttons only appear once quiz has begun and disappear once quiz has ended
   
