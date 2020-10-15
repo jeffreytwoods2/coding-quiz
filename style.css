@@ -1,0 +1,19 @@
+h1 {
+    text-align: center; 
+    margin-top: 25px;
+}
+
+p {
+    text-align: center; 
+    font-size: large;
+}
+
+#q-btns {
+    margin: 0 auto;
+}
+
+.q-btns {
+    margin: 25px 0px;
+    display: block; 
+    width: 400px;
+}
