@@ -10,16 +10,19 @@ Points are tallied up at the end, and student may save their username and their 
 
 
 HTML:
+
 Layout is very simple; <h1> header is repurposed after landing page to be the question-asking element
 Parapgraph element is hidden after quiz begins, and is repurposed to show the score at the end
 Question buttons only appear once quiz has begun and disappear once quiz has ended
   
   
 CSS:
+
 Bootstrap framework used, mostly for the button styling. 
 Most adjustments such as center-aligning text and elements were done on my own stylesheet; Bootstrap may not have been necessary at all
 
 JavaScript:
+
 Timer is an interval counting down one second at a time
 Logic was applied to start and stop the timer at the correct pages, and to display the digits correctly (eg. there is a "0" in front of single-digit numbers)
 Separate functions that either build up the score or dock minutes, tied to answer buttons with the 'onclick' attribute
